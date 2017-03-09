@@ -1,3 +1,3 @@
 # Heart-Rate-Monitor
 
-![Shcematics] (Shcematics.png)
+![Schematics] (Schematics.png)
