@@ -1,6 +1,6 @@
 # Heart-Rate-Monitor
 
-![Schematics] (/images/Schematics.png)
+![Schematics] (/images/Schematics.jpg)
 
 ![Body] (/images/Body.jpg)
 
