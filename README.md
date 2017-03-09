@@ -8,5 +8,5 @@
 
 ![MainMenu] (/images/MainMenu.jpg)
 
-![History] (/images/History.png)
+![History] (/images/History.jpg)
 
