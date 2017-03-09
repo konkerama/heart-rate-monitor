@@ -2,9 +2,9 @@
 
 ![Schematics] (/images/Schematics.png)
 
-![Body] (/images/Body.png)
+![Body] (/images/Body.jpg)
 
-![Scan] (/images/Scan.png)
+![Scan] (/images/Scan.jpg)
 
 ![MainMenu] (/images/MainMenu.jpg)
 
