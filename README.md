@@ -1,12 +1,12 @@
 # Heart-Rate-Monitor
 
-![Schematics] (/images/Schematics.jpg)
+![alt tag](images/Schematics.png)
 
-![Body] (/images/Body.jpg)
+![Body](/images/Body.jpg)
 
-![Scan] (/images/Scan.jpg)
+![Scan](/images/Scan.jpg)
 
-![MainMenu] (/images/MainMenu.jpg)
+![MainMenu](/images/MainMenu.jpg)
 
-![History] (/images/History.jpg)
+![History](/images/History.jpg)
 
