@@ -1,5 +1,5 @@
 # Heart-Rate-Monitor
-## Created By: Konstantinos Keramaris, Theodwros Antonaros
+## Created By: Konstantinos Keramaris, Theodoros Antonaros
 
 This is our implementation  of a heart rate monitor using:
 1. Arduino Uno Board
