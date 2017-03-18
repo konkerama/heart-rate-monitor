@@ -1,7 +1,7 @@
 # Heart-Rate-Monitor
 ## Created By: Konstantinos Keramaris, Theodwros Antonaros
 
-This is our implemetation of a heart rate monitor using:
+This is our implementation  of a heart rate monitor using:
 1. Arduino Uno Board
 2. HC-05 Bluetooth module
 3. AD8232 Heart Rate Monitor
@@ -22,8 +22,9 @@ After uses selects the device, the android application connects to the bluetooth
 * Show: For showing the test that has been taken
 * Save: For saving the test
 * History: For showing the history
-The test lasts for arround 8 seconds. The arduino onboard led blinks while the test is been taken and it stops blinking when it is finished. <br />
-Beats per minute is also displayed. If bpm is bellow 60 or above 100 a warning message is displayed
+
+The test lasts for around  8 seconds. The arduino onboard led blinks while the test is being  taken and it stops blinking when it is finished. <br />
+Beats per minute is also displayed. If bpm is below 60 or above 100 a warning message is displayed
 
 ![mainMenu](/images/MainMenu.jpg) <br />
 #### History: <br />
