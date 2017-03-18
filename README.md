@@ -16,13 +16,12 @@ User must add the pads according to the picture
 ![body](/images/Body.jpg)
 
 ### Android Application
-#### Scan: <br />
-User Scans for paired devices and selects HC-05 module
-
+#### Scan:
+User Scans for paired devices and selects HC-05 module <br />
 ![scan](/images/Scan.jpg)
 
 
-#### Main Menu (Cardiograph) <br />
+#### Main Menu (Cardiograph): <br />
 After uses selects the device, the android application connects to the bluetooth module and user has for options: <br />
 * Start: For starting the test
 * Show: For showing the test that has been taken
@@ -30,10 +29,10 @@ After uses selects the device, the android application connects to the bluetooth
 * History: For showing the history
 
 The test lasts for arround 8 seconds. The arduino onboard led blinks while the test is been taken and it stops blinking when it is finished. <br />
-Beats per minute is also displayed. <br />
-If bpm is bellow 60 or above 100 a warning message is displayed <br />
+Beats per minute is also displayed. If bpm is bellow 60 or above 100 a warning message is displayed
+
 ![mainMenu](/images/MainMenu.jpg) <br />
-#### History <br />
+#### History: <br />
 User can see the saved tests, with chronological order <br />
 ![history](/images/History.jpg) <br />
 
