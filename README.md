@@ -8,6 +8,7 @@ This is our implemetation of a heart rate monitor using:
 
 ### Schematics
 ![schematics](images/Schematics.png)
+
 User must add the pads according to the picture
 (The closer to the heart the pads are, the better the measurement)
 ![body](/images/Body.jpg)
@@ -23,6 +24,7 @@ After uses selects the device, the android application connects to the bluetooth
 * History: For showing the history
 The test lasts for arround 8 seconds. The arduino onboard led blinks while the test is been taken and it stops blinking when it is finished. <br />
 Beats per minute is also displayed. If bpm is bellow 60 or above 100 a warning message is displayed
+
 ![mainMenu](/images/MainMenu.jpg) <br />
 #### History: <br />
 User can see the saved tests, with chronological order <br />
