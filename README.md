@@ -17,7 +17,7 @@ User must add the pads according to the picture
 User Scans for paired devices and selects HC-05 module <br />
 ![scan](/images/Scan.jpg)
 #### Main Menu (Cardiograph): <br />
-After uses selects the device, the android application connects to the bluetooth module and user has four options: <br />
+After user selects the device, the android application connects to the bluetooth module and there are four options: <br />
 * Start: For starting the test
 * Show: For showing the test that has been taken
 * Save: For saving the test
