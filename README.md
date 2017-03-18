@@ -6,13 +6,13 @@ This is our implementation  of a heart rate monitor using:
 2. HC-05 Bluetooth module
 3. AD8232 Heart Rate Monitor
 
-### Schematics
+### Schematics:
 ![schematics](images/Schematics.png)
 
 User must add the pads according to the picture
 (The closer to the heart the pads are, the better the measurement)
 ![body](/images/Body.jpg)
-### Android Application
+### Android Application:
 #### Scan:
 User Scans for paired devices and selects HC-05 module <br />
 ![scan](/images/Scan.jpg)
